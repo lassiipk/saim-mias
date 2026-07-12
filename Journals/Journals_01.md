@@ -17,3 +17,14 @@ Anyways lets continue discussing the project,  After some research on my mouse i
 ![](https://github.com/lassiipk/saim-mias/blob/main/Images/Mouse-Internal-Components/IMG_20251210_142839.jpg) | ![](https://github.com/lassiipk/saim-mias/blob/main/Images/Mouse-Internal-Components/IMG_20251210_142927.jpg)
 ![](https://github.com/lassiipk/saim-mias/blob/main/Images/Mouse-Internal-Components/IMG_20251210_142959.jpg) | ![](https://github.com/lassiipk/saim-mias/blob/main/Images/Mouse-Internal-Components/IMG_20251210_142945.jpg)
 ![](https://github.com/lassiipk/saim-mias/blob/main/Images/Mouse-Internal-Components/IMG_20251210_143024.jpg) | ![](https://github.com/lassiipk/saim-mias/blob/main/Images/Mouse-Internal-Components/IMG_20251210_143041.jpg)
+
+---
+
+Currently I'm just dummping all my thoughts to this journal to get started on my project.
+I've displayed my problem, and created a solution of it, now lets get started working on the actaul working of this project.
+
+My idea is to make create a PCB design get it manufactured and install it inside my Mosue.
+
+The actaul headic is to make a PCB in the first place. I dont know anything about making a mouse... and its firmware. and its internal componnts. So I gotta do a hardcore research onit ASAP. like what microcontroller is best suited? What kind ofg LEDs are best to use to control them later on using a software or a function of a macro or button? anything else? and blha blha blah ...
+
+---
