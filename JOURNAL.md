@@ -39,9 +39,9 @@ Anyways lets continue discussing the project,  After some research on my mouse i
 
 |||
 :-------------------------:|:-------------------------:
-![](https://github.com/lassiipk/saim-mias/blob/main/Images/Mouse-Internal-Components/IMG_20251210_142839.jpg) | ![](https://github.com/lassiipk/saim-mias/blob/main/Images/Mouse-Internal-Components/IMG_20251210_142927.jpg)
-![](https://github.com/lassiipk/saim-mias/blob/main/Images/Mouse-Internal-Components/IMG_20251210_142959.jpg) | ![](https://github.com/lassiipk/saim-mias/blob/main/Images/Mouse-Internal-Components/IMG_20251210_142945.jpg)
-![](https://github.com/lassiipk/saim-mias/blob/main/Images/Mouse-Internal-Components/IMG_20251210_143024.jpg) | ![](https://github.com/lassiipk/saim-mias/blob/main/Images/Mouse-Internal-Components/IMG_20251210_143041.jpg)
+![](https://github.com/lassiipk/saim-mias/tree/main/Assets/Images/Mouse-Internal-Components/IMG_20251210_142839.jpg) | ![](https://github.com/lassiipk/saim-mias/tree/main/Assets/Images/Mouse-Internal-Components/IMG_20251210_142927.jpg)
+![](https://github.com/lassiipk/saim-mias/tree/main/Assets/Images/Mouse-Internal-Components/IMG_20251210_142959.jpg) | ![](https://github.com/lassiipk/saim-mias/tree/main/Assets/Images/Mouse-Internal-Components/IMG_20251210_142945.jpg)
+![](https://github.com/lassiipk/saim-mias/tree/main/Assets/Images/Mouse-Internal-Components/IMG_20251210_143024.jpg) | ![](https://github.com/lassiipk/saim-mias/tree/main/Assets/Images/Mouse-Internal-Components/IMG_20251210_143041.jpg)
 
 ---
 
